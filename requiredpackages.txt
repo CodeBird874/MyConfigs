@@ -1,0 +1,6 @@
+alacritty
+git
+lxappearance
+neofetch
+nitrogen
+polybar
